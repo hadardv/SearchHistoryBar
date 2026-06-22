@@ -22,6 +22,11 @@ A simple Android project with a reusable Jetpack Compose search bar library and 
 - JDK 11+
 - minSdk 24
 
+## Screen Record
+
+https://github.com/user-attachments/assets/f51ace09-8c14-4f75-997b-c3f7537a01ce
+
+
 ## Run the demo
 
 1. Open the project in Android Studio.
